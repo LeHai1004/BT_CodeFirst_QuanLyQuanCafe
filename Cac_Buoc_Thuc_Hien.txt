@@ -1,2 +1,3 @@
 ﻿Bước 1: Khởi tạo Project và kết nối GitHub.
 Bước 2: Cài đặt 3 thư viện EF Core (SqlServer, Tools, Design).
+Bước 3: Thiết kế các lớp Models (LoaiMon, MonAn) cho quán Cafe.
