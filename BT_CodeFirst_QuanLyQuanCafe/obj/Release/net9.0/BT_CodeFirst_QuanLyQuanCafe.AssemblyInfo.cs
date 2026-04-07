@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BT_CodeFirst_QuanLyQuanCafe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a8ea48f0c75b4ca5db43f7c823d98e33e858ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20857508838bebe3dad10f01654f1c04de2e2c09")]
 [assembly: System.Reflection.AssemblyProductAttribute("BT_CodeFirst_QuanLyQuanCafe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BT_CodeFirst_QuanLyQuanCafe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
