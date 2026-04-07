@@ -1,1 +1,2 @@
 ﻿Bước 1: Khởi tạo Project và kết nối GitHub.
+Bước 2: Cài đặt 3 thư viện EF Core (SqlServer, Tools, Design).
